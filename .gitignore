@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+
+# .NET build
+bin/
+obj/
+
+# Angular
+node_modules/
+dist/
+
+# SQLite tools / installers
+*.msi
+
+# OS
+.DS_Store
+Thumbs.db
