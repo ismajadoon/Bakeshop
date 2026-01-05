@@ -1,0 +1,6 @@
+@Bakesop_HostAddress = http://localhost:5110
+
+GET {{Bakesop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
